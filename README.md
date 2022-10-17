@@ -1,1 +1,1 @@
-just my dots :D
+for dwm dots go to /dttric/dwm
